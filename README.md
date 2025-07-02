@@ -17,7 +17,7 @@ PsychCareAI is an interactive web application designed to analyze mental health 
 - **SQLite**: For database storage.
 
 ## **File Structure**
-## **File Structure**
+
 
 ```
 PsychCareAI/
